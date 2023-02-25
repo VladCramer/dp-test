@@ -1,4 +1,4 @@
-import logo from './putin.jpg';
+import logo from './lev.jpg';
 import './App.css';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Putin Huylo!
+          Slava Ukraine!
         </a>
       </header>
     </div>
