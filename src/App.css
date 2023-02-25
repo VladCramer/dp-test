@@ -6,7 +6,6 @@
   height: 35vmin;
   pointer-events: none;
   border-radius: 1000px;
-  margin-bottom: 30px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -27,6 +26,7 @@
 }
 
 .App-link {
+  margin-top: 30px;
   color: #61dafb;
 }
 
